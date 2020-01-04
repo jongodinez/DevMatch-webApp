@@ -12,4 +12,4 @@ DevMatch is a serverless web application that connects developers with entrepren
 
 Building DevMatch had 2 goals:
 1. Learn Ruby on Rails framework
-2. Learn the AWS environment
+2. Learn the AWS environment (Cloud 9/EC2)
